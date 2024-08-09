@@ -8,6 +8,9 @@ Auth::routes(['verify' => true]);
 
 Route::post('register', [RegisterController::class, 'register']);
 
+Route::get('/', function () {
+    return view('welcome');
+});
 
 Auth::routes();
 
