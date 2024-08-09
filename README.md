@@ -59,7 +59,7 @@ Este projeto é um sistema web desenvolvido em Laravel que implementa recursos b
     MAIL_HOST=sandbox.smtp.mailtrap.io
     MAIL_PORT=2525
     MAIL_USERNAME=edac292d6780ef
-    MAIL_PASSWORD=664269e54453eb
+    MAIL_PASSWORD=******e54453eb
     MAIL_ENCRYPTION=tls
     MAIL_FROM_ADDRESS="emailTeste@gmail.com"
     MAIL_FROM_NAME="${APP_NAME}"
