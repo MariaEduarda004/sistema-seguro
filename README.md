@@ -1,4 +1,4 @@
-# **Projeto Laravel: Implementação de Recursos Básicos de Segurança**
+# **Sistema Seguro - Segurança da Informação**
 
 ## **Descrição do Projeto**
 
@@ -59,17 +59,16 @@ Este projeto é um sistema web desenvolvido em Laravel que implementa recursos b
     MAIL_HOST=sandbox.smtp.mailtrap.io
     MAIL_PORT=2525
     MAIL_USERNAME=edac292d6780ef
-    MAIL_PASSWORD=664269e54453eb
+    MAIL_PASSWORD=******e54453eb
     MAIL_ENCRYPTION=tls
     MAIL_FROM_ADDRESS="emailTeste@gmail.com"
     MAIL_FROM_NAME="${APP_NAME}"
-9. **Compilação**
+9. **Compilação front**
    ```bash
     npm run 
-    
+9. **Compilação back**
    ```bash
     php artisan serve
 
-    
-Acesse o projeto em http://localhost:8000/login.
+## **Acesse o projeto em http://localhost:8000/login.**
 
