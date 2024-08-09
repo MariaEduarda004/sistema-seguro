@@ -65,7 +65,7 @@ Este projeto é um sistema web desenvolvido em Laravel que implementa recursos b
     MAIL_FROM_NAME="${APP_NAME}"
 9. **Compilação front**
    ```bash
-    npm run 
+    npm run dev
 9. **Compilação back**
    ```bash
     php artisan serve
